@@ -1,0 +1,9 @@
+﻿op;linea;fecha_doc;cod_linea;concepto;cantidad;precio_unitario;moneda;monto;estado;fecha_pago;fecha_carga;observacion;cantidad_n;precio_n;monto_n;fecha_doc_dt;fecha_pago_dt;fecha_carga_dt;duplicada_llave;motivo_exclusion
+OP-1162;5;2026-05-07;LN-01;Electricidad;10;19,20;USD;192,00;Pagada;1900-01-01;2026-05-08 17:20;;10.0;19.2;192.0;2026-05-07;1900-01-01;2026-05-08 17:20:00;True;Versión anterior del cargo según R2
+OP-1316;3;2026-05-13;LN-01;Agua de proceso;8;17,94;USD;155,00;Pendiente;;2026-05-14 15:57;;8.0;17.94;155.0;2026-05-13;;2026-05-14 15:57:00;True;Versión anterior del cargo según R2
+OP-1435;4;18/05/2026;LN-02;Vapor de caldera;6;38,21;USD;247,60;Pendiente;;2026-05-19 11:47;;6.0;38.21;247.6;2026-05-18;;2026-05-19 11:47:00;True;Versión anterior del cargo según R2
+OP-1079;5;2026-05-23; LN-01;Vapor de caldera;111;2141;CLP;237651;Pendiente;;2026-05-24 13:40;;111.0;2141.0;237651.0;2026-05-23;;2026-05-24 13:40:00;True;Versión anterior del cargo según R2
+OP-1062;3;2026-07-13;LN-05;Vapor de caldera;3;199,76;USD;599,28;Pagada;2026-08-08;2026-07-14 08:53;;3.0;199.76;599.28;2026-07-13;2026-08-08;2026-07-14 08:53:00;True;Versión anterior del cargo según R2
+OP-1293;4;2026-07-14;LN-04;Electricidad;8;26,18;USD;209,44;Pendiente;;2026-07-15 16:52;;8.0;26.18;209.44;2026-07-14;;2026-07-15 16:52:00;True;Versión anterior del cargo según R2
+OP-1901;4;2026-07-30;LN-1;Vapor de caldera;11;27788;CLP;305668;Pagada;2026-08-20;2026-07-31 14:01;;11.0;27788.0;305668.0;2026-07-30;2026-08-20;2026-07-31 14:01:00;True;Versión anterior del cargo según R2
+OP-1272;3;2026-08-18;LN-02;Gas natural;5;54,69;USD;295,33;Pagada;2026-09-09;2026-08-19 11:28;;5.0;54.69;295.33;2026-08-18;2026-09-09;2026-08-19 11:28:00;True;Versión anterior del cargo según R2
